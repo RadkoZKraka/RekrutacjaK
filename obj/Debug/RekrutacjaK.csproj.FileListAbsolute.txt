@@ -1,0 +1,12 @@
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\bin\Debug\RekrutacjaK.exe.config
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\bin\Debug\RekrutacjaK.exe
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\bin\Debug\RekrutacjaK.pdb
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.csproj.AssemblyReference.cache
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.csproj.SuggestedBindingRedirects.cache
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.Properties.Resources.resources
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.csproj.GenerateResource.cache
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.csproj.CoreCompileInputs.cache
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.exe
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.pdb
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.MainView.resources
+C:\Users\malco\RiderProjects\RekrutacjaK\RekrutacjaK\obj\Debug\RekrutacjaK.Form1.resources
